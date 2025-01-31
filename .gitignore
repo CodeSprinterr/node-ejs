@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# OS generated files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+.vscode
